@@ -1,10 +1,10 @@
 <p align="right">
-  <a href="./README.pt-BR.md">🇧🇷 Português (Brasil)</a>
+  <a href="./README.md">🇺🇸 English</a>
 </p>
 
 ## Luciano Mendes
 
-**Fullstack Web Developer**
+**Desenvolvedor Web Fullstack**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luciano-menddes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,23 +13,23 @@
 
 ---
 
-### About Me
+### Sobre Mim
 
-I am a Fullstack web developer with over 8 years of experience building scalable digital products and production-grade platforms. I focus on delivering end-to-end systems that balance engineering quality, delivery speed, and measurable business impact.
+Sou desenvolvedor web Fullstack com mais de 8 anos de experiência construindo produtos digitais escaláveis e plataformas prontas para produção. Meu foco é entregar sistemas de ponta a ponta que equilibram qualidade de engenharia, velocidade de entrega e impacto mensurável no negócio.
 
-I work hands-on across architecture, implementation, and production operations, with strong emphasis on performance, resilience, and maintainability. Across different industries, I have led solutions in high-ambiguity environments by turning complex requirements into reliable systems that scale.
+Atuo de forma hands-on em arquitetura, implementação e operações em produção, com forte ênfase em performance, resiliência e manutenibilidade. Em diferentes setores, liderei soluções em ambientes de alta ambiguidade, transformando requisitos complexos em sistemas confiáveis e escaláveis.
 
-- Design and deliver full-cycle solutions across frontend, backend, and infrastructure.
-- Build with **JavaScript/TypeScript** and **Python**, including intelligent automation and AI/LLM applications.
-- Architect distributed integrations with **SQL/NoSQL** data layers and **Docker-based** environments.
-- Evolve modern system design with **multi-agent architectures** for high-demand products.
-- Expand into **blockchain and decentralized technologies**, currently focused on the **Solana** ecosystem.
+- Projeto e entrego soluções de ciclo completo em frontend, backend e infraestrutura.
+- Desenvolvo com **JavaScript/TypeScript** e **Python**, incluindo automação inteligente e aplicações com IA/LLM.
+- Arquiteto integrações distribuídas com camadas de dados **SQL/NoSQL** e ambientes baseados em **Docker**.
+- Evoluo o design moderno de sistemas com **arquiteturas multiagentes** para produtos de alta demanda.
+- Expando minha atuação em **blockchain e tecnologias descentralizadas**, com foco atual no ecossistema **Solana**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack de Tecnologias
 
-**Languages**
+**Linguagens**
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -51,7 +51,7 @@ I work hands-on across architecture, implementation, and production operations, 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-**Backend & Runtime**
+**Backend e Runtime**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -59,7 +59,7 @@ I work hands-on across architecture, implementation, and production operations, 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-**Databases**
+**Bancos de Dados**
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -68,7 +68,7 @@ I work hands-on across architecture, implementation, and production operations, 
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-**DevOps & Infrastructure**
+**DevOps e Infraestrutura**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -77,7 +77,7 @@ I work hands-on across architecture, implementation, and production operations, 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**AI Tools**
+**Ferramentas de IA**
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -98,8 +98,6 @@ I work hands-on across architecture, implementation, and production operations, 
 
 ---
 
-
-
 <p align="center">
-  <i>"From architecture to production, building systems that scale and create real impact."</i>
+  <i>"Da arquitetura à produção, construindo sistemas que escalam e geram impacto real."</i>
 </p>
