@@ -15,15 +15,17 @@
 
 ### About Me
 
-I am a Fullstack web developer with over 8 years of experience building scalable digital products and production-grade platforms. I focus on delivering end-to-end systems that balance engineering quality, delivery speed, and measurable business impact.
+# About Me
 
-I work hands-on across architecture, implementation, and production operations, with strong emphasis on performance, resilience, and maintainability. Across different industries, I have led solutions in high-ambiguity environments by turning complex requirements into reliable systems that scale.
+I am a **Full Stack Web Developer** with over 8 years of experience building scalable digital products, distributed systems, and production-ready platforms. I work across the entire software development lifecycle, combining engineering, architecture, and product thinking to turn complex problems into reliable, high-performance, and maintainable solutions.
 
-- Design and deliver full-cycle solutions across frontend, backend, and infrastructure.
-- Build with **JavaScript/TypeScript** and **Python**, including intelligent automation and AI/LLM applications.
-- Architect distributed integrations with **SQL/NoSQL** data layers and **Docker-based** environments.
-- Evolve modern system design with **multi-agent architectures** for high-demand products.
-- Expand into **blockchain and decentralized technologies**, currently focused on the **Solana** ecosystem.
+* Build end-to-end solutions across **frontend, backend, integrations, and infrastructure**.
+* Work with **JavaScript/TypeScript** and **Python** to build web applications, automation, and **AI/LLM-powered solutions**.
+* Design APIs, integrations, and distributed systems using **SQL/NoSQL databases**, messaging systems, and **Docker-based environments**.
+* Develop solutions based on **multi-agent architectures**, agent orchestration, and AI applications focused on automation and scalability.
+* Operate production systems with a strong focus on **observability, performance, reliability, and continuous improvement**.
+* Currently expanding my expertise in **blockchain and decentralized technologies**, with a focus on the **Solana ecosystem**.
+
 
 ---
 
