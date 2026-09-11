@@ -15,15 +15,17 @@
 
 ### Sobre Mim
 
-Sou desenvolvedor web Fullstack com mais de 8 anos de experiência construindo produtos digitais escaláveis e plataformas prontas para produção. Meu foco é entregar sistemas de ponta a ponta que equilibram qualidade de engenharia, velocidade de entrega e impacto mensurável no negócio.
+# Sobre mim
 
-Atuo de forma hands-on em arquitetura, implementação e operações em produção, com forte ênfase em performance, resiliência e manutenibilidade. Em diferentes setores, liderei soluções em ambientes de alta ambiguidade, transformando requisitos complexos em sistemas confiáveis e escaláveis.
+Sou desenvolvedor **Web Full Stack** com mais de 8 anos de experiência na construção de produtos digitais escaláveis, sistemas distribuídos e plataformas prontas para produção. Atuo de ponta a ponta no desenvolvimento de software, conectando engenharia, arquitetura e visão de produto para transformar problemas complexos em soluções confiáveis, performáticas e sustentáveis.
 
-- Projeto e entrego soluções de ciclo completo em frontend, backend e infraestrutura.
-- Desenvolvo com **JavaScript/TypeScript** e **Python**, incluindo automação inteligente e aplicações com IA/LLM.
-- Arquiteto integrações distribuídas com camadas de dados **SQL/NoSQL** e ambientes baseados em **Docker**.
-- Evoluo o design moderno de sistemas com **arquiteturas multiagentes** para produtos de alta demanda.
-- Expando minha atuação em **blockchain e tecnologias descentralizadas**, com foco atual no ecossistema **Solana**.
+* Desenvolvo soluções de ciclo completo, atuando em **frontend, backend, integrações e infraestrutura**.
+* Utilizo **JavaScript/TypeScript** e **Python** na construção de aplicações web, automações e soluções baseadas em **IA/LLMs**.
+* Projeto APIs, integrações e sistemas distribuídos utilizando bancos **SQL/NoSQL**, mensageria e ambientes conteinerizados com **Docker**.
+* Desenvolvo soluções com **arquiteturas multiagentes**, orquestração de agentes e aplicações de IA voltadas para automação e escala.
+* Atuo em ambientes de produção com foco em **observabilidade, performance, confiabilidade e evolução contínua**.
+* Atualmente, amplio meus conhecimentos em **blockchain e tecnologias descentralizadas**, com foco no ecossistema **Solana**.
+
 
 ---
 
